@@ -18,5 +18,7 @@ Projeto criado no evento NLW 06 da Rocketseat
 
 ## Rotas
 
-- /users - Criação de usuários
-- /tags - Criação de tags, apenas para usuários admin
+- POST - /users - Criação de usuários
+- POST - /tags - Criação de tags, apenas para usuários admin.
+- POST - /session - Pagina para autenticação do usuário.
+- POST - /compliments - Criação de elogios.
